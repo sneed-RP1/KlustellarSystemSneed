@@ -4,7 +4,7 @@ Surnus - Creator, Founder, Config-Maker, Designer, Debugger, Tester, Scatterer-C
 
 Sneed - Config-Maker, Designer, Tester, Scatterer-Config-Maker, Debugger
 
-The123123123 - Designer, Config-Maker, Scatterer-Config-Maker, Volumetric-Clouds-Config-Maker, Tester, Wormhole-Config-Maker
+The123123123 - Designer, Config-Maker, Scatterer-Config-Maker, Volumetric-Clouds-Config-Maker, Tester, Wormhole-Config-Maker, Pulsar-Jets-Creator-Thru-Unity
 
 Zezuel - Debugger
 
@@ -16,4 +16,4 @@ Drag "KlustellarSystem" Folder into your GameData folder, then you can run your 
 
 ========================== SHOUTOUTS ==========================
 
-Shout out to the whole team for coming together and taking Hours - Days from their Life to help make this Mod, Amazing team.
+Shout out to the whole team for coming together and taking so much from their time to help make this Mod.
