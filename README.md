@@ -8,7 +8,7 @@ The123123123 - Designer, Config-Maker, Scatterer-Config-Maker, Volumetric-Clouds
 
 Zezuel - Debugger
 
-Flynn - PlanetK-System-Creator,
+Flynn - Gave the Idea of PlanetK
 
 ========================== INSTALLATION ===========================
 
