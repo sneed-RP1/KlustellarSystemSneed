@@ -16,4 +16,4 @@ Drag "KlustellarSystem" Folder into your GameData folder, then you can run your 
 
 ========================== SHOUTOUTS ==========================
 
-Shout out to the whole team for coming together and taking so much from their time to help make this Mod.
+Shout out to the whole team for coming together and taking alot of their time to help make this mod.
