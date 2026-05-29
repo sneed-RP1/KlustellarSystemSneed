@@ -1,48 +1,44 @@
 ========================== Credits ==========================
 
-============ !!ROLES!! ==============
+# Credits
 
-## Creator & Founder
-- **Surnus**
-  - Creator, Founder  
-  - Config-Maker  
-  - Designer  
-  - Debugger  
-  - Tester  
-  - Scatterer-Config-Maker  
-  - Singularity-Config-Maker  
-  - Blender-Texture-Designer  
+**Surnus**  
+- Creator  
+- Founder  
+- Config-Maker  
+- Designer  
+- Debugger  
+- Tester  
+- Scatterer-Config-Maker  
+- Singularity-Config-Maker  
+- Blender-Texture-Designer  
 
-## Config-Makers
-- **Surnus**  
-- **Sneed**  
-- **The123123123**
+**Sneed**  
+- Config-Maker  
+- Designer  
+- Tester  
+- Scatterer-Config-Maker  
+- Debugger  
+- Helper  
 
-### Specialized Configs
-- **Surnus** — Scatterer, Singularity  
-- **Sneed** — Scatterer  
-- **The123123123** — Scatterer, Volumetric Clouds, Wormhole, Pulsar Jets (Unity)
+**The123123123**  
+- Designer  
+- Config-Maker  
+- Scatterer-Config-Maker  
+- Volumetric-Clouds-Config-Maker  
+- Tester  
+- Wormhole-Config-Maker  
+- Pulsar-Jets-Creator-Using-Unity  
+- Helper  
 
-## Designers
-- **Surnus** — Blender Textures  
-- **Sneed**  
-- **The123123123**
-- 
-## Testers
-- **Surnus**  
-- **Sneed**  
-- **The123123123**
+**Zezuel**  
+- Debugger  
+- Helper  
+- Blender-Helper  
 
-## Debuggers
-- **Surnus**  
-- **Sneed**  
-- **Zezuel**
-
-## Helpers
-- **Sneed**  
-- **The123123123**  
-- **Zezuel** — Blender Helper  
-- **Flynn** — Helper, Idea of PlanetK
+**Flynn**  
+- Gave the Idea of PlanetK  
+- Helper  
 
 ========================== REQUIREMENTS ==========================
 
