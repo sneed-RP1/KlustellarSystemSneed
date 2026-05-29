@@ -1,32 +1,65 @@
 ========================== Credits ==========================
 
-Surnus - Creator, Founder, Config-Maker, Designer, Debugger, Tester, Scatterer-Config-Maker, Singularity-Config-Maker
+============ !!ROLES!! ==============
 
-Sneed - Config-Maker, Designer, Tester, Scatterer-Config-Maker, Debugger
+## Creator & Founder
+- **Surnus**
+  - Creator, Founder  
+  - Config-Maker  
+  - Designer  
+  - Debugger  
+  - Tester  
+  - Scatterer-Config-Maker  
+  - Singularity-Config-Maker  
+  - Blender-Texture-Designer  
 
-The123123123 - Designer, Config-Maker, Scatterer-Config-Maker, Volumetric-Clouds-Config-Maker, Tester, Wormhole-Config-Maker, Pulsar-Jets-Creator-Thru-Unity
+## Config-Makers
+- **Surnus**  
+- **Sneed**  
+- **The123123123**
 
-Zezuel - Debugger
+### Specialized Configs
+- **Surnus** — Scatterer, Singularity  
+- **Sneed** — Scatterer  
+- **The123123123** — Scatterer, Volumetric Clouds, Wormhole, Pulsar Jets (Unity)
 
-Flynn - Gave the Idea of PlanetK
+## Designers
+- **Surnus** — Blender Textures  
+- **Sneed**  
+- **The123123123**
+- 
+## Testers
+- **Surnus**  
+- **Sneed**  
+- **The123123123**
+
+## Debuggers
+- **Surnus**  
+- **Sneed**  
+- **Zezuel**
+
+## Helpers
+- **Sneed**  
+- **The123123123**  
+- **Zezuel** — Blender Helper  
+- **Flynn** — Helper, Idea of PlanetK
 
 ========================== REQUIREMENTS ==========================
 
 Some mod-dependencies that are required to run this mod.
 
-1. Kopernicus
-2. Scatterer
-3. Eve Redux 
-4. Scaled Decorator
-5. Module Manager
+1. Kopernicus + All Dependencies.
+2. Scatterer + All Dependencies.
+3. Eve Redux + All Dependencies. 
+4. Scaled Decorator + All Dependencies.
+5. Module Manager + All Dependencies.
+6. KSP Community Fixes + All Dependencies. 
+7. Singularity + All Dependencies. 
+8. Parallax Continued + All Dependencies. 
 
 * * * * * OPTIONAL * * * * *
 
 6. True Volumetric Clouds V.5
-
-* * * * * Required but for the future * * * * *
-
-7. Singularity
 
 ========================== INSTALLATION ===========================
 
